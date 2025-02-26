@@ -1,0 +1,15 @@
+ruta-entrega/
+├── index.html
+├── login.html
+├── tracking.html
+├── services.html
+├── contact.html
+├── styles.css
+├── script.js
+├── login.php
+├── register.php
+├── track.php
+├── contact.php
+├── database.sql
+├── .gitignore
+└── README.md
